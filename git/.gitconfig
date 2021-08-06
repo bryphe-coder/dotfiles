@@ -23,6 +23,7 @@
 	insteadOf = https://github.com/
 [user]
 	email = bryan@coder.com
-	name = Bryan
+	name = Bryan Phelps
+	signingKey = C18B89082069E05F
 [rerere]
 	enabled = true
