@@ -27,3 +27,5 @@
 	signingKey = C18B89082069E05F
 [rerere]
 	enabled = true
+[commit]
+	gpgsign = true
