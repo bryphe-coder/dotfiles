@@ -22,8 +22,7 @@
 [url "git@github.com:"]
 	insteadOf = https://github.com/
 [user]
-	email = grey@coder.com
-	name = G r e y
-	signingkey = 1B933BA64CF808BD
+	email = bryan@coder.com
+	name = Bryan
 [rerere]
 	enabled = true
