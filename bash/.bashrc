@@ -126,3 +126,5 @@ export NAMESPACE="coder-greyb-namespace"
 if [ -f "$HOME/.bash_path" ]; then
     . "$HOME/.bash_path"
 fi
+
+export GPG_TTY=$(tty)
