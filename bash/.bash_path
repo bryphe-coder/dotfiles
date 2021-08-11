@@ -27,5 +27,9 @@ if [ -f "$HOME/.gvm/scripts/gvm" ]; then
   . "$HOME/.gvm/scripts/gvm"
 fi
 
+if [ -d "$HOME/.yarn/bin" ]; then
+  PATH="$HOME/.yarn/bin:$PATH"
+fi
+
 # kubectl autocompletion
 source <(kubectl completion bash)
